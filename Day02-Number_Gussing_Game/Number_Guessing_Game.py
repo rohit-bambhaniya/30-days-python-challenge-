@@ -34,8 +34,7 @@ class NumberGuessingGame:
                     break
 
                 if max_attempt is not None and self.attempts >= max_attempt:
-
-                    print("Game over!😓")
+                    print(f"Game over!😓 The number was {self.secret_number}.")
                     break
                 
             except ValueError:
@@ -84,7 +83,7 @@ def main():
         elif num == '4':
             print("Goodbye!")
             break
-        
+
         else:
 
             print("Invalid Choice!")
