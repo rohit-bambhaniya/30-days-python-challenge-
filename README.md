@@ -7,8 +7,9 @@ My goal is to improve my Python programming skills by building one project every
 ## Progress
 
 - ✅ Day 1: OOP Calculator
-- ✅ Day 2: OOP Number_Gussing_Game
-- ⏳ Day 3: Coming Soon
+- ✅ Day 2: OOP Number_Gussing_Game.
+- ✅ Day 3: OOP Password Generator
+- ⏳ Day 4: Coming Soon
 
 ## Topics Covered
 - Python Fundamentals
@@ -36,3 +37,12 @@ My goal is to improve my Python programming skills by building one project every
 - Difficulty Levels
 - Replay Option
 - Input Validation (try-except)
+
+## Day 3 - Password Generator
+- OOP Design
+- Random Module
+- String Module
+- Password Generation
+- Input Validation
+- Method Refactoring
+- DRY Principle 

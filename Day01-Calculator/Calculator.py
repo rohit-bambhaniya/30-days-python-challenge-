@@ -65,11 +65,19 @@ def main():
 
             print(f"Result: {operations[choice]()}")
 
-            again = input("Do another calculation? (y/n):")
+            again = input("Do another calculation? (y/n):").lower()
 
-            if again.lower() == 'n':
+            if again == 'n':
 
                 break
+
+            elif again == 'y':
+
+                continue
+            
+            else:
+
+                print("Please enter only y or n")
 
 
 

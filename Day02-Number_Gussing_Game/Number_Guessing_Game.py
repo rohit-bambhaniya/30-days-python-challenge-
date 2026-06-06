@@ -64,7 +64,7 @@ def main():
         1. Easy
         2. Medium
         3. Hard
-        4.Exit
+        4. Exit
         """
         
         print(GAME_LEVEL)
@@ -94,10 +94,17 @@ def main():
 
         again = input("Play again? (y/n): ").lower()   
 
-        if again == "n":
+        if again == 'n':
 
             print("Thanks for playing ❤️")
             break
+
+        elif again == 'y':
+            continue
+
+        else:
+
+            print("Please enter only y or n")
 
         
 
