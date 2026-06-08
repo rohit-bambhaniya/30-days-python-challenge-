@@ -10,7 +10,8 @@ My goal is to improve my Python programming skills by building one project every
 - ✅ Day 2: OOP Number Gussing Game
 - ✅ Day 3: OOP Password Generator
 - ✅ Day 4: OOP To-Do App
-- ⏳ Day 5: Coming Soon
+- ✅ Day 5: OOP Rock Paper Scissors Game
+- ⏳ Day 6: Coming Soon
 
 ## Topics Covered
 - Python Fundamentals
@@ -57,3 +58,13 @@ My goal is to improve my Python programming skills by building one project every
 - Input Validation
 - Exception Handling
 - Menu-Driven Program
+
+### Day 5 - Rock Paper Scissors Game
+- OOP Design
+- Game Logic
+- Random Module
+- Score Tracking System
+- Input Validation
+- Winner Logic Implementation
+- Loop-based Gameplay
+- Final Result Display
