@@ -11,7 +11,8 @@ My goal is to improve my Python programming skills by building one project every
 - ✅ Day 3: OOP Password Generator
 - ✅ Day 4: OOP To-Do App
 - ✅ Day 5: OOP Rock Paper Scissors Game
-- ⏳ Day 6: Coming Soon
+- ✅ Day 6: Unit Converter
+- ⏳ Day 7: Coming Soon
 
 ## Topics Covered
 - Python Fundamentals
@@ -68,3 +69,14 @@ My goal is to improve my Python programming skills by building one project every
 - Winner Logic Implementation
 - Loop-based Gameplay
 - Final Result Display
+
+### Day 6 - Unit Converter
+- OOP Design
+- Mathematical Conversions
+- Methods & Functions
+- User Input Handling
+- Menu-Driven Program
+- Float Data Type
+- Conditional Statements
+- Formatted Output
+- Input Validation
