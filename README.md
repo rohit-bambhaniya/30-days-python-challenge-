@@ -12,7 +12,8 @@ My goal is to improve my Python programming skills by building one project every
 - ✅ Day 4: OOP To-Do App
 - ✅ Day 5: OOP Rock Paper Scissors Game
 - ✅ Day 6: Unit Converter
-- ⏳ Day 7: Coming Soon
+- ✅ Day 7: Simple_Quiz_App
+- ⏳ Day 8: Coming Soon
 
 ## Topics Covered
 - Python Fundamentals
@@ -79,4 +80,15 @@ My goal is to improve my Python programming skills by building one project every
 - Float Data Type
 - Conditional Statements
 - Formatted Output
+- Input Validation.
+
+## Day 7 - Quiz App
+- OOP Design
+- Dictionaries & Nested Data
+- Loops
+- Conditional Logic
+- Score Tracking
+- Percentage Calculation
+- Exception Handling
 - Input Validation
+- Menu-Driven Program
