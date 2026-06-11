@@ -92,3 +92,20 @@ My goal is to improve my Python programming skills by building one project every
 - Exception Handling
 - Input Validation
 - Menu-Driven Program
+
+## Day 8 - Expense Tracker
+
+- OOP Design
+- Expense Management
+- Dictionary Data Structure
+- Add Expenses
+- View Expenses
+- Delete Expenses
+- Delete Confirmation
+- Show Total Expenses
+- Input Validation
+- Exception Handling
+- File Handling
+- Data Persistence
+- Read & Write Files
+- CRUD Operations
