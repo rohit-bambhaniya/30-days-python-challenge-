@@ -109,3 +109,22 @@ My goal is to improve my Python programming skills by building one project every
 - Data Persistence
 - Read & Write Files
 - CRUD Operations
+
+## Day 9 - File Organizer
+
+### Features
+- Organize files automatically by type
+- Create folders automatically
+- Move files into categorized folders
+- Support for Images, Documents, Videos, and Music
+- Summary report generation
+- Object-Oriented Design (OOP)
+
+### Concepts Used
+- OOP
+- os Module
+- shutil Module
+- File Extensions
+- Dictionary Mapping
+- Path Handling
+- Folder Automation
