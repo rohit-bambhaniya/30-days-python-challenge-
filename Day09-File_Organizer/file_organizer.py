@@ -1,5 +1,4 @@
 import os
-import shutil
 
 img_count = 0
 document_count = 0
@@ -8,8 +7,8 @@ music_count = 0
 other_count = 0
 file_count = 0
 folder_count = 0
-path = input("Enter folder path: ")
 
+path = input("Enter folder path: ")
 
 if os.path.exists(path):
 
